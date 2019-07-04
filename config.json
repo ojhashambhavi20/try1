@@ -1,0 +1,9 @@
+{
+  "userName": "058ad9992f4e776033", 
+  "password": "3599d18235685821621a",
+  "server": "0b9ed7932d787d7e2407e00ce6e21e9aa04acaa3d9e9d96b63ba1b789b9d",
+  "options": {
+      "database": "0b9ed7932d787d7e24",
+	  "encrypt":true
+  }
+}
